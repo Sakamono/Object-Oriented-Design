@@ -1,5 +1,10 @@
 # Object-Oriented-Design
 Using Java to build OOD projects.
+## Battleship Game
+* Built a Battleship game using Object-Oriented Design in Java
+* Applied MVC design pattern in high level with 30+ classes to capture components structure
+* Managed project with Maven and created unit tests for all the objects with Junit
+
 ## Bank Security System
 • Designed an object-oriented secure bank verification system simulator in Java
 • Visualized the simulator system architecture with UML diagram and built the Java project with Maven
